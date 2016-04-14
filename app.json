@@ -1,0 +1,7 @@
+{
+  "name": "Thumbor-Heroku",
+  "description": "A barebones go app for test Thumbor",
+  "repository": "https://github.com/soslight/Twidere-Thumbor-Heroku",
+  "logo": "https://www.herokucdn.com/deploy/button.png",
+  "keywords": ["go", "Thumbor", "Heroku","Twidere"]
+}
